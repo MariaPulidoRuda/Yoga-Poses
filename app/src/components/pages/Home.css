@@ -13,6 +13,8 @@
   height: 100vh;
   color: rgb(11, 10, 10);
   display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
   justify-content: center;
   /*align-items: top;
   text-align: top;*/
@@ -20,8 +22,17 @@
   margin-bottom: 20px;
   z-index: -2;
   font-family: Arial, Helvetica, sans-serif;
+  
 }
 
+/*width: 120px;
+  height: 100px;
+  
+  padding: 130px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  float: right*/
 .h2 {
   font-size: 30px;
   font-family: Arial, Helvetica, sans-serif;
@@ -31,4 +42,35 @@
   text-align: center;
   padding: 0px 0;
   line-height: 2rem;
+
+   
 }
+#pie {
+    background:rgb(68, 67, 67);
+    height: 50px;
+    line-height: 50px;
+    color:white;
+    text-align:center;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    height: 40px;
+    line-height:50px;
+    position: fixed;
+    bottom:0;
+    left:0;
+  
+  
+
+}
+ 
+  /*color:white;
+  text-align:center;
+  height:50px;
+  line-height:50px;
+  background:black;
+  bottom:0;
+  left:0;
+  width:100%;*/
+ 
+  

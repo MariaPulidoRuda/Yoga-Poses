@@ -5,6 +5,7 @@
 //import { MyState } from '../myState'
 import { getData } from '../services/Services'
 import { useState, useEffect } from "react"
+import './Poses.css'
 
  
  const Poses = () => {
@@ -23,9 +24,9 @@ import { useState, useEffect } from "react"
   return (
     <>
      <div>
-  <h2> Search a YOGA POSE  </h2>
+  <h2 className="titulo"> Search a YOGA POSE</h2>
   </div>
-    <input type="text" value={filter} onChange={(e) => setFilter(e.target.value)} />
+   <input type="text" name="text" className="input" placeholder="Type here" value={filter} onChange={(e) => setFilter(e.target.value)} />
           {posesCollection.map((pose) => (
             <div key={pose.name}>
             <h2>Difficulty</h2>
@@ -34,7 +35,7 @@ import { useState, useEffect } from "react"
             <p>{pose.Sanskrit}</p>
             <h2>Benefits</h2>
             <p>{pose.Benefits}</p>
-            <img>{pose.Image}</img>
+            <img className="img" src={pose.Image}/>
             </div>
           ))}
         
