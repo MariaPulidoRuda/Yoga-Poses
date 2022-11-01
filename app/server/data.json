@@ -5,43 +5,50 @@
       "id": 1,
       "name": "Downward Facing Dog",
       "difficulty": "low",
-      "Sanskrit": "adho mukha svanasana"
+      "Sanskrit": "adho mukha svanasana",
+      "Benefits": "Downward-Facing Dog Pose can help you recover after sports and activities like running. It improves posture, circulation, and counteracts the effects of prolonged sitting."
     },
     {
         "id": 2,
         "name": "Lotus",
         "difficulty": "medium",
-        "Sanskrit": "Padmasana"
+        "Sanskrit": "Padmasana",
+        "Benefits": "Lotus pose, or padmasana, is an excellent stretch for releasing the hips—which are a problem point for a lot of people. Over time, the effects of frequent sitting and poor posture can result in closed and stiff hips. Not to mention, hips can hold a lot of the trauma that's stored in our body."
       },
       {
         "id": 3,
         "name": "Cobra",
         "difficulty": "medium",
-        "Sanskrit": "Bhujangasana"
+        "Sanskrit": "Bhujangasana",
+        "Benefits": "Stretches muscles in the shoulders, chest and abdominals. Decreases stiffness of the lower back. Strengthens the arms and shoulders. Increases flexibility."
       },
       {
         "id": 4,
         "name": "Warrior I",
         "difficulty": "medium",
-        "Sanskrit": "Virabhadrasana I"
+        "Sanskrit": "Virabhadrasana I",
+        "Benefits": "Pose is a standing yoga pose that helps build focus, power and stability. This foundational pose stretches the front side of the body and is great for building strength in the legs, core and back."
       },
       {
         "id": 5,
-        "name": "Firefly Pose",
+        "name": "Firefly",
         "difficulty": "high",
-        "Sanskrit": "Tittibhasana"
+        "Sanskrit": "Tittibhasana",
+        "Benefits": "This pose strengthens the wrists, forearms, shoulders, triceps, hip flexors, and core. It provides a stretch for the hamstrings, adductors, and outer hips. Practicing it will help improve your sense of balance."
       },
       {
       "id": 6,
-        "name": "Scorpion Pose",
+        "name": "Scorpion",
         "difficulty": "high",
-        "Sanskrit": "Taraksvasana"
+        "Sanskrit": "Taraksvasana",
+        "Benefits": "Besides developing patience, perseverance, and mental stamina, scorpion pose will strengthen your shoulders, core, and back muscles. Overall spinal flexibility is improved with continued practice as well as stretching of the hip flexors and chest."
     },
     {
         "id": 7,
         "name": "Standing Splits Against a Wall Pose",
         "difficulty": "high",
-        "Sanskrit": "Urdhva Prasarita Eka Padasana"
+        "Sanskrit": "Urdhva Prasarita Eka Padasana",
+        "Benefits": "Leg split workout increases the overall flexibility by opening the hamstrings, quads, calves, pelvis, and hips. Leg split workout helps in better balance and prevents falls and injuries. A full body split workout prevents better blood circulation and muscle strength of the involuntary muscles."
     }
   ]
     }

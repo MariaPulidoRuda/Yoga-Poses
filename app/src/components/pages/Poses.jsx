@@ -26,15 +26,18 @@ import { useState, useEffect } from "react"
   <h2> Search a YOGA POSE  </h2>
   </div>
     <input type="text" value={filter} onChange={(e) => setFilter(e.target.value)} />
-        <ul>
           {posesCollection.map((pose) => (
-            <li key={pose.name}>
+            <div key={pose.name}>
             <h1>{pose.name}</h1>
-            <h2>{pose.difficulty}</h2>
-            <h2>{pose.Sanskrit}</h2>
-            </li>
+            <h2>Difficulty</h2>
+            <p>{pose.difficulty}</p>
+            <h2>Sanskrit Name</h2>
+            <p>{pose.Sanskrit}</p>
+            <h2>Benefits</h2>
+            <p>{pose.Benefits}</p>
+            </div>
           ))}
-        </ul>
+        
     </>
   )
           }
