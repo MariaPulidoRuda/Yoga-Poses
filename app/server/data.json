@@ -4,51 +4,58 @@
             {
       "id": 1,
       "name": "Downward Facing Dog",
-      "difficulty": "low",
+      "difficulty": "Low",
       "Sanskrit": "adho mukha svanasana",
-      "Benefits": "Downward-Facing Dog Pose can help you recover after sports and activities like running. It improves posture, circulation, and counteracts the effects of prolonged sitting."
+      "Benefits": "Downward-Facing Dog Pose can help you recover after sports and activities like running. It improves posture, circulation, and counteracts the effects of prolonged sitting.",
+      "Image": "https://res.cloudinary.com/dujlexijg/image/upload/v1667325856/downDog_9650_mcqga9.jpg"
     },
     {
         "id": 2,
         "name": "Lotus",
-        "difficulty": "medium",
+        "difficulty": "Medium",
         "Sanskrit": "Padmasana",
-        "Benefits": "Lotus pose, or padmasana, is an excellent stretch for releasing the hips—which are a problem point for a lot of people. Over time, the effects of frequent sitting and poor posture can result in closed and stiff hips. Not to mention, hips can hold a lot of the trauma that's stored in our body."
+        "Benefits": "Lotus pose, or padmasana, is an excellent stretch for releasing the hips—which are a problem point for a lot of people. Over time, the effects of frequent sitting and poor posture can result in closed and stiff hips. Not to mention, hips can hold a lot of the trauma that's stored in our body.",
+        "Image": "https://res.cloudinary.com/dujlexijg/image/upload/v1667325440/18--Butterfly-poseYoga-Poses----Sitting-_2C-standing_2C-recumbent_ajibdn.jpg"
       },
       {
         "id": 3,
         "name": "Cobra",
-        "difficulty": "medium",
+        "difficulty": "Medium",
         "Sanskrit": "Bhujangasana",
-        "Benefits": "Stretches muscles in the shoulders, chest and abdominals. Decreases stiffness of the lower back. Strengthens the arms and shoulders. Increases flexibility."
+        "Benefits": "Stretches muscles in the shoulders, chest and abdominals. Decreases stiffness of the lower back. Strengthens the arms and shoulders. Increases flexibility.",
+        "Image": "https://res.cloudinary.com/dujlexijg/image/upload/v1667325380/10-simple-yoga-poses-that-will-help-you-attain-a-healthy-lifestyle_wfjetv.jpg"
       },
       {
         "id": 4,
-        "name": "Warrior I",
-        "difficulty": "medium",
+        "name": "Warrior",
+        "difficulty": "Medium",
         "Sanskrit": "Virabhadrasana I",
-        "Benefits": "Pose is a standing yoga pose that helps build focus, power and stability. This foundational pose stretches the front side of the body and is great for building strength in the legs, core and back."
+        "Benefits": "Pose is a standing yoga pose that helps build focus, power and stability. This foundational pose stretches the front side of the body and is great for building strength in the legs, core and back.",
+        "Image": "https://res.cloudinary.com/dujlexijg/image/upload/v1667325802/Warrior-1_Andrew-Clark_yixnle.jpg"
       },
       {
         "id": 5,
         "name": "Firefly",
-        "difficulty": "high",
+        "difficulty": "High",
         "Sanskrit": "Tittibhasana",
-        "Benefits": "This pose strengthens the wrists, forearms, shoulders, triceps, hip flexors, and core. It provides a stretch for the hamstrings, adductors, and outer hips. Practicing it will help improve your sense of balance."
+        "Benefits": "This pose strengthens the wrists, forearms, shoulders, triceps, hip flexors, and core. It provides a stretch for the hamstrings, adductors, and outer hips. Practicing it will help improve your sense of balance.",
+        "Image": "https://res.cloudinary.com/dujlexijg/image/upload/v1667325625/Firefly-Pose_Andrew-Clark_1_jpcagg.jpg"
       },
       {
       "id": 6,
         "name": "Scorpion",
-        "difficulty": "high",
+        "difficulty": "High",
         "Sanskrit": "Taraksvasana",
-        "Benefits": "Besides developing patience, perseverance, and mental stamina, scorpion pose will strengthen your shoulders, core, and back muscles. Overall spinal flexibility is improved with continued practice as well as stretching of the hip flexors and chest."
+        "Benefits": "Besides developing patience, perseverance, and mental stamina, scorpion pose will strengthen your shoulders, core, and back muscles. Overall spinal flexibility is improved with continued practice as well as stretching of the hip flexors and chest.",
+        "Image": "https://res.cloudinary.com/dujlexijg/image/upload/v1667325508/image-asset_wn9oi6.png"
     },
     {
         "id": 7,
         "name": "Standing Splits Against a Wall Pose",
-        "difficulty": "high",
+        "difficulty": "High",
         "Sanskrit": "Urdhva Prasarita Eka Padasana",
-        "Benefits": "Leg split workout increases the overall flexibility by opening the hamstrings, quads, calves, pelvis, and hips. Leg split workout helps in better balance and prevents falls and injuries. A full body split workout prevents better blood circulation and muscle strength of the involuntary muscles."
+        "Benefits": "Leg split workout increases the overall flexibility by opening the hamstrings, quads, calves, pelvis, and hips. Leg split workout helps in better balance and prevents falls and injuries. A full body split workout prevents better blood circulation and muscle strength of the involuntary muscles.",
+        "Image": "https://res.cloudinary.com/dujlexijg/image/upload/v1667326150/Standing-Split-pose_wflstr.jpg"
     }
   ]
     }

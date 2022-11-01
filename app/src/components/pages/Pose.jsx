@@ -7,6 +7,7 @@ const PoseDetail = ({ pose }) => {
       <p>difficulty: {pose.difficulty}</p>
       <p>sanskrit: {pose.Sanskrit}</p>
       <p>Benefits: {pose.Benefits}</p>
+      <img>{pose.Image}</img>
     </>
   )
 }

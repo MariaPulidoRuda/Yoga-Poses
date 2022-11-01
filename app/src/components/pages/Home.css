@@ -4,3 +4,31 @@
   padding: 15rem;
   text-align: center;
 }
+
+.principal{
+  background-image: url('https://res.cloudinary.com/dujlexijg/image/upload/v1667321294/dise%C3%B1o-minimalista-continuo-del-dibujo-lineal-de-la-muchacha-yoga-en-el-fondo-blanco-las-mujeres-hacen-actitudes-l_C3_ADnea-continua-151383259_qxt3lp.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom center;
+  height: 100vh;
+  color: rgb(11, 10, 10);
+  display: flex;
+  justify-content: center;
+  /*align-items: top;
+  text-align: top;*/
+  position: relative;
+  margin-bottom: 20px;
+  z-index: -2;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.h2 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #171614;
+  margin: 0px 0px;
+  letter-spacing: 1.2px;
+  text-align: center;
+  padding: 0px 0;
+  line-height: 2rem;
+}

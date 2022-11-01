@@ -7,7 +7,7 @@ import './components/Nav.css'
 
 
 function App() {
-  return <div className="App">
+  return <div>
   <>
   <header><Nav /></header>
  

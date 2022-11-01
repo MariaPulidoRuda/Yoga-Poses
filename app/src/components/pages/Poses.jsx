@@ -28,13 +28,13 @@ import { useState, useEffect } from "react"
     <input type="text" value={filter} onChange={(e) => setFilter(e.target.value)} />
           {posesCollection.map((pose) => (
             <div key={pose.name}>
-            <h1>{pose.name}</h1>
             <h2>Difficulty</h2>
             <p>{pose.difficulty}</p>
             <h2>Sanskrit Name</h2>
             <p>{pose.Sanskrit}</p>
             <h2>Benefits</h2>
             <p>{pose.Benefits}</p>
+            <img>{pose.Image}</img>
             </div>
           ))}
         
