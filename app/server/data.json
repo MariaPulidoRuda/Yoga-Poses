@@ -9,13 +9,13 @@
     },
     {
         "id": 2,
-        "name": "Lotus Pose",
+        "name": "Lotus",
         "difficulty": "medium",
         "Sanskrit": "Padmasana"
       },
       {
         "id": 3,
-        "name": "Cobra Pose",
+        "name": "Cobra",
         "difficulty": "medium",
         "Sanskrit": "Bhujangasana"
       },
